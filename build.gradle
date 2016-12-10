@@ -1,6 +1,10 @@
 apply plugin: 'war'
 apply plugin: 'jetty'
 
+war {
+	archiveName 'gradle-sample-project.war'
+}
+
 repositories {
     mavenCentral()
 }
