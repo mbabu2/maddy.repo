@@ -1,0 +1,4 @@
+- hosts: localhost 192.168.146.11
+  tasks:
+    - name: install httpd
+      yum: name=httpd update_cache=yes state=latest
