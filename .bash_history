@@ -239,3 +239,196 @@ yum reinstall jenkins
 cat /var/lib/jenkins/secrets/initialAdminPassword
 git init
 git log
+git branch
+git merge master maddy
+git diff  master maddy
+git init
+git merge master maddy
+git checkout master
+git merge master maddy
+git merge maddy master
+history |grep -i git clone
+rpm -Uvh https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm
+ansible --version
+which anible
+rpm -qa |grep -i ans
+yum -y install ansible
+ansible --vertion
+ansible --version
+cat /etc/ansible/
+cat /etc/ansible/hosts 
+cat /etc/ansible/roles/
+ansible localhost -m command -a "uname -r"
+ll test-playbook.yml
+vi test-playbook.yml
+ansible-playbook test-playbook.yml
+rpm -qa |grep -i hhtpd
+rpm -qa |grep -i httpd
+ansible all -i /var/inventory -m command -a 'df -Th'
+cat /etc/ansible/hosts 
+vi /etc/ansible/hosts 
+ansible all -i /var/inventory -m command -a 'df -Th'
+ansible localhost -m command -a "uname -r"
+ansible all  -m command -a "uname -r"
+ssh 192.168.146.11
+vi /var/inventory
+ansible all -i /var/inventory -m command -a 'df -Th'
+ssh-keygen
+cd .ssh
+ll
+cat id_rsa.pub
+ssh-copy-id -i id_rsa.pub root@192.168.146.11
+ssh 'root@192.168.146.11
+ssh 'root@192.168.146.11'
+ansible all -i /var/inventory -m command -a 'df -Th'
+ansible all  -m command -a "uname -r"
+set -o vi
+vi /etc/ansible/hosts 
+vi test-playbook.yml
+ll test-playbook.yml*
+cd
+ll test-playbook.yml
+vi test-playbook.yml
+ansible-playbook test-playbook.yml
+ansible -m ping -all
+ansible -m ping 192.168.146.11
+cat test-playbook.yml
+cat /var/lib/jenkins/secrets/initialAdminPassword
+yum install jenkins
+yum clenn all
+yum clean all
+yum repolist
+git --version
+git config
+git config --get-all
+git config --list
+git config --get
+git config --get--list
+git config --global--get-all
+git init
+history |grep -i git
+git clone /path/to/repository
+git init
+cd /root/.git/
+ll
+ git add R/modified.R man/modified.Rd
+git init
+ git add R/modified.R man/modified.Rd
+git status
+ git add .gitignore, too.
+ git add .gitignore
+git add --all
+git status
+git commit -m "Initial commit"
+git config --global user.email "madhavan.bb@gmail.com"
+git config --global user.name "mbabu2"
+git commit -m "Initial commit"
+git status
+ll
+get clone https://github.com/rprataps/Exerl.git
+git clone https://github.com/rprataps/Exerl.git
+git log --stat
+git log
+git
+git status
+git show
+grt add*
+grt add *
+git add *
+git commit -m "Commit Message"
+git status
+get list
+git list
+git clone https://github.com/mbabu2/maddy.repo.git
+ll //github.com/mbabu2/maddy.repo.git
+ll /maddy.repo.git
+ll
+ll maddy.repo
+git add file
+git add maddy
+cd
+git remote add origin https://github.com/mbabu2/maddy.repo.git
+git push -u origin master
+get stat
+git stat
+git status
+git initial commit
+git init
+git status
+git add all
+git add --all
+git status
+git commit -m "Initial commit"
+git status
+git push -u origin master
+git init 
+git add m.m
+git add README.md
+cd /root/.git/
+ll
+git add README.md
+cd maddy.repo
+ll
+git add README.md
+echo "# maddy.repo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/mbabu2/maddy.repo.git
+git push -u origin master
+git status
+git list
+got brance maddy
+git brance maddy
+git branch maddy
+git list
+git checkout maddy
+pwd
+ll
+git branch
+git push origin master
+git push origin maddy
+git diff maddy master
+git diff master
+git diff master maddy
+git diff  maddy
+git branch
+git merge master maddy
+git diff  master maddy
+git init
+git merge master maddy
+git checkout master
+git merge master maddy
+git merge maddy master
+history |grep -i git clone
+history |grep -i git
+git clone https://github.com/mbabu2/maddy.repo.git
+ll
+vim student_web_page.html
+cat student_web_page.html 
+git add *
+git commit -m "Commit Message"
+git push origin master
+systemctl restart jenkins.service
+ll /etc/default/jenkins
+systemctl status jenkins.service
+cat /var/lib/jenkins/secrets/initialAdminPassword
+uptime
+df -h
+cat /etc/sysconfig/network-scripts/ifcfg-ens33
+cat /etc/resolv.conf 
+cat /etc/hosts
+vi /etc/hosts
+cd /etc/yum.repos.d/
+ll
+cat rhel7dvd.repo
+pwf
+df
+rpm -qa |grep -i Ansible
+ansible --version
+set -o vi
+cat /etc/ansible/hosts
+cat /etc/ansible/hosts |gep -i 192.168.146.11
+cat /etc/ansible/hosts |grep -i 192.168.146.11
+ansible -m ping 192.168.146.11
+ansible all  -m command -a "uname -r"
