@@ -30,11 +30,32 @@
 	1
 
 # File marks:
-'0  1  0  /etc/resolv.conf
-'1  2  0  /etc/resolv.conf
-'2  3  0  /etc/sysconfig/network-scripts/ifcfg-ens33
+'0  1  19  ~/student_web_page.html
+'1  1  0  /etc/resolv.conf
+'2  2  0  /etc/resolv.conf
+'3  3  0  /etc/sysconfig/network-scripts/ifcfg-ens33
 
 # Jumplist (newest first):
+-'  1  19  ~/student_web_page.html
+-'  1  0  /etc/resolv.conf
+-'  2  0  /etc/resolv.conf
+-'  3  0  /etc/sysconfig/network-scripts/ifcfg-ens33
+-'  1  0  /etc/sysconfig/network-scripts/ifcfg-ens33
+-'  3  0  /etc/sysconfig/network-scripts/ifcfg-ens33
+-'  1  0  /etc/sysconfig/network-scripts/ifcfg-ens33
+-'  3  0  /etc/sysconfig/network-scripts/ifcfg-ens33
+-'  1  0  /etc/sysconfig/network-scripts/ifcfg-ens33
+-'  3  0  /etc/sysconfig/network-scripts/ifcfg-ens33
+-'  1  0  /etc/sysconfig/network-scripts/ifcfg-ens33
+-'  3  0  /etc/sysconfig/network-scripts/ifcfg-ens33
+-'  1  0  /etc/sysconfig/network-scripts/ifcfg-ens33
+-'  3  0  /etc/sysconfig/network-scripts/ifcfg-ens33
+-'  1  0  /etc/sysconfig/network-scripts/ifcfg-ens33
+-'  3  17  /etc/resolv.conf
+-'  3  0  /etc/sysconfig/network-scripts/ifcfg-ens33
+-'  1  0  /etc/sysconfig/network-scripts/ifcfg-ens33
+-'  3  0  /etc/sysconfig/network-scripts/ifcfg-ens33
+-'  1  0  /etc/sysconfig/network-scripts/ifcfg-ens33
 -'  1  0  /etc/resolv.conf
 -'  2  0  /etc/resolv.conf
 -'  3  0  /etc/sysconfig/network-scripts/ifcfg-ens33
@@ -56,6 +77,12 @@
 -'  1  0  /etc/sysconfig/network-scripts/ifcfg-ens33
 
 # History of marks within files (newest to oldest):
+
+> ~/student_web_page.html
+	"	1	19
+	^	1	20
+	.	1	19
+	+	1	19
 
 > /etc/resolv.conf
 	"	1	0
