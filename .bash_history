@@ -500,3 +500,79 @@ vi test-playbook.yml
 ansible-playbook -i localhost /tmp/test-playbook.yml
 rpm -qa |grep -i nfs
 vi /tmp/test-playbook.yml
+ll /tmp/test-playbook.yml
+more /tmp/test-playbook.yml
+scp -rp /tmp/test-playbook.yml root@client:/tmp
+scp -rp /tmp/test-playbook.yml root@192.168.146.11:/tmp
+ping master
+yum install ntp
+systemctl start ntpd
+yum install ftp
+wget http://192.168.146.10//tmp/test-playbook.yml
+yum install httpd
+systemctl status httpd
+systemctl start httpd
+yum install vsftpd
+systemctl start vsftpd
+wget 192.168.146.10:/tmp/test-playbook.yml
+wget 192.168.146.10 test-playbook.yml
+wget 192.168.146.10:test-playbook.yml
+wget 192.168.146.10:/tmp/test-playbook.yml
+scp  root@192.168.146.11:/tmp/test-playbook.yml
+scp
+scp /tmp/test-playbook.yml root@192.168.146.11:/tmp
+cd /tmp
+ll
+cd /var/www/html/
+ll
+pwd
+git init
+cd
+git init
+cd /root/.git/
+ll
+set -o vi
+git commit -m "Initial commit"
+history
+git add*
+git add *
+ git commit -m "Initial commit"
+git push -u origin master
+git push origin master
+git push origin maddy
+history |grep -i git
+git branch
+ git push -u origin master
+git
+git show
+git
+git status
+ git checkout master
+ git checkout maddy
+ git brance
+ git branch
+ git branchs
+git pull origin master
+git init
+cd
+git init
+git pull origin master
+ git branch
+ git push -u origin master
+git pull 
+git pull maddy
+git pull git push --help
+ git commit -m "Initial commit"
+ git push -u origin master
+ git push -u origin maddy
+git mege master maddy
+git merge master maddy
+ git commit -m "Initial commit"
+ git commit -m
+ git commit 
+git merge master maddy
+ git commit .bash_history
+git merge master maddy
+ git commit 
+git merge master maddy
+git diff master maddy

@@ -1,3 +1,5 @@
 [user]
 	email = madhavan.bb@gmail.com
 	name = mbabu2
+[push]
+	default = matching
